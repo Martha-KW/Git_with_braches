@@ -4,3 +4,5 @@ animal 2 = dog
 experimental:
 animal 3 = Elephant
 animal 4 = Lion
+animal 5 = Turtle
+animal 6 = Tiger
